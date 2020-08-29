@@ -1,13 +1,13 @@
-# PyBer_Analysis
-Work for Module #5
+# **PyBer Analysis**
 
-## Overview of the analysis: Explain the purpose of the new analysis.
+
+## Overview of the Analysis
 
 The purpose of this analysis was to further flesh out the three defined market types that PyBer operates in- Suburban, Urban, and Rural cities.  Specifically, we wanted to examine how **fares** in each of those above three mentioned areas fluctuate throughout the year (the data we had was for Q1 of 2019).  By better understanding how Pyber's business is doing in each of those areas of operation, *over time*, they can better understand both where they can look to improve, like by increasing customer engagement for individuals residing in urban areas via social media, but also, *when* is the most efficient time of the year to look increase their presence, based on the data we produced.
 
 
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results Section:
 
 ![Alt_text](https://github.com/Nickguild1993/PyBer_Analysis/blob/master/Resources/pyber_fare_city_type_linechart.png)
 
@@ -23,7 +23,7 @@ The purpose of this analysis was to further flesh out the three defined market t
 
 - Looking at average fare per driver, Rural areas are the most profitable for the drivers, with each driver receiving $55.49 on average.  There are of course, a couple of caveats that should be acknowledged with that figure.  Firstly, we don't know the average *distance* of each trip.  However, given that we do know that those trips originate in Rural communities, it is likely that they're longer trips than those that orginate in both Suburban and Urban areas simply because Rural areas are more remote, meaning that a greater distance must be traveled to reach a destination, which causes the trip fare to increase.  Secondly, without knowing the average time between when a customer books a trip and when that car arrives, we don't know if the low number of drivers in Rural areas (78 active in Q1) is more a result of low demand on behalf of the consumer, or a low supply of available drivers. Knowing that would help us understand if the high amount the average driver makes is at least partially attributable to some form of surge pricing, which would happen if the demand for trips is higher than the supply of drivers can accommodate.
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Executive Summary and Suggestions: 
 
 While it's hard to give recommendations without knowing Pyber's market share, desired focal points, engagement budget, etc. for each of the three areas, we do have some general suggestions.  
 
